@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Data Analyst",
+    "summary": "A data analyst collects, organizes, and analyzes data to help organizations make informed business decisions.",
+    "skills": ["Data analysis", "Statistics", "Data visualization"],
+    "job_demand": "High",
+    "alignment": "Medium",
+    "outlook": "Growing demand"
+  },
+  {
+    "name": "UI Designer",
+    "summary": "A UI designer creates user interface designs for software applications and websites.",
+    "skills": ["User experience design", "User interface design", "Graphic design"],
+    "job_demand": "Medium",
+    "alignment": "Low",
+    "outlook": "Stable demand"
+  },
+  {
+    "name": "Mechanical Engineer",
+    "summary": "A mechanical engineer designs, builds, and tests mechanical systems and devices.",
+    "skills": ["Mechanical engineering", "Design", "Prototyping"],
+    "job_demand": "High",
+    "alignment": "High",
+    "outlook": "Growing demand"
+  }
+]
