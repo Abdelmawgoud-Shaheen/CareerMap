@@ -1,0 +1,9 @@
+{
+  "start": "Hello! I'm CareerMap AI. I'd love to help you find a career path that suits you. Can you tell me about your interests, current education level, and any known skills?",
+  "career_suggestion": "Based on your input, I think you might be interested in a career as a {career_name}. Here's a brief summary: {summary}\n\nKey skills required: {skills}\nJob demand: {job_demand}\nAlignment with your background: {alignment}\nFuture career outlook: {outlook}",
+  "interested": "Are you interested in pursuing this career path? (yes/no)",
+  "learning_roadmap": "Here's a learning roadmap to help you get started:\n{roadmap}",
+  "motivational_tips": "You got this! Stay motivated and focused, and you'll be on your way to a successful career.",
+  "alternative_careers": "No worries if this career path isn't for you. I'd be happy to suggest alternative careers based on your interests and skills.",
+  "no_career_suggestions": "Sorry, I couldn't find any career suggestions based on your input. Can you please provide more information about your interests and skills?"
+}
