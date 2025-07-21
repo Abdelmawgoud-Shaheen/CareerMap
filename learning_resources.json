@@ -1,0 +1,14 @@
+{
+  "Data Analyst": [
+    {"title": "Data Analysis with Python", "url": "https://www.coursera.org/specializations/data-analysis-python"},
+    {"title": "Data Visualization with Tableau", "url": "https://www.udemy.com/course/tableau-10-advanced-data-visualization/"}
+  ],
+  "UI Designer": [
+    {"title": "User Experience Design", "url": "https://www.coursera.org/specializations/user-experience-design"},
+    {"title": "User Interface Design", "url": "https://www.udemy.com/course/user-interface-design/"}
+  ],
+  "Mechanical Engineer": [
+    {"title": "Mechanical Engineering", "url": "https://www.coursera.org/specializations/mechanical-engineering"},
+    {"title": "Design and Prototyping", "url": "https://www.udemy.com/course/design-and-prototyping/"}
+  ]
+}
